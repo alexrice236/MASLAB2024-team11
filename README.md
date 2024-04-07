@@ -1,6 +1,8 @@
 # team-11
 Team 11 MASLAB 2024 Code
 
+![](https://github.com/alexrice236/MASLAB2024-team11/blob/main/im/logo.png)
+
 ## Robot Restrictions
   20” (L) x 20” (W) x 30” (H) starting bounding box
   
@@ -49,4 +51,14 @@ Team 11 MASLAB 2024 Code
 # The RAM (Robotic Autonomous Manipulator)
 
 Collects and sorts blocks according to color, holds opposition blocks, stacks friendly blocks.
+
+![](https://github.com/alexrice236/MASLAB2024-team11/blob/main/im/maslab0.gif)
+
+![](https://github.com/alexrice236/MASLAB2024-team11/blob/main/im/maslab1.gif)
+
+![](https://github.com/alexrice236/MASLAB2024-team11/blob/main/im/maslab2.gif)
+
+![](https://github.com/alexrice236/MASLAB2024-team11/blob/main/im/maslab4.gif)
+
+
 
