@@ -1,0 +1,2 @@
+bool bottom_limit
+bool top_limit
